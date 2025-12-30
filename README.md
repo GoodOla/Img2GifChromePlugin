@@ -1,5 +1,7 @@
 # Img2GifChromePlugin
 
+![示意圖](./docs/images/Img2GifPlugin.gif)
+
 在 X（Twitter）發文時，把你選的圖片 **即時轉成 GIF** 並**直接丟回發文視窗**上傳。
 
 你可以把它想成：
