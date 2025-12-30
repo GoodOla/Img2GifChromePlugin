@@ -33,17 +33,19 @@
 
 > 這是「未上架 Chrome Web Store」時最常用的安裝方式。
 
-1. 在Chrome的網址列輸入下面連結
+1. 下載壓縮檔並且解壓縮 [下載地址](https://github.com/GoodOla/Img2GifChromePlugin/releases/tag/v1.0.0)
+
+2. 在Chrome的網址列輸入下面連結
    - chrome://extensions/
-2. 右上角打開：
+3. 右上角打開：
    - **Developer mode / 開發人員模式**
    - ![示意圖](./docs/images/openDevelopeMode.png)
-3. 點擊：
+4. 點擊：
    - **Load unpacked / 載入未封裝項目**
    - ![示意圖](./docs/images/loadPlugin.png)
-4. 選擇這個專案的資料夾如圖
+5. 選擇這個專案的資料夾如圖
    - ![示意圖](./docs/images/chooseFolder.png)
-5. 載入成功後，到 `https://x.com` 重新整理頁面（F5）
+6. 載入成功後，到 `https://x.com` 重新整理頁面（F5）
 
 ---
 
