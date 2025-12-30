@@ -33,16 +33,16 @@
 
 > 這是「未上架 Chrome Web Store」時最常用的安裝方式。
 
-1. 開啟下面連結
-   - [URL](chrome://extensions/)
+1. 在Chrome的網址列輸入下面連結
+   - chrome://extensions/
 2. 右上角打開：
    - **Developer mode / 開發人員模式**
-   ![示意圖](./docs/images/openDevelopeMode.png)
+   - ![示意圖](./docs/images/openDevelopeMode.png)
 3. 點擊：
    - **Load unpacked / 載入未封裝項目**
-   ![示意圖](./docs/images/loadPlugin.png)
-4. 選擇這個專案的資料夾（包含 `manifest.json` 那層）
-   ![示意圖](./docs/images/chooseFolder.png)
+   - ![示意圖](./docs/images/loadPlugin.png)
+4. 選擇這個專案的資料夾如圖
+   - ![示意圖](./docs/images/chooseFolder.png)
 5. 載入成功後，到 `https://x.com` 重新整理頁面（F5）
 
 ---
