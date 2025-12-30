@@ -37,12 +37,12 @@
    - [URL](chrome://extensions/)
 2. 右上角打開：
    - **Developer mode / 開發人員模式**
-   ![示意圖](./docs/image/openDevelopeMode.png)
+   ![示意圖](./docs/images/openDevelopeMode.png)
 3. 點擊：
    - **Load unpacked / 載入未封裝項目**
-   ![示意圖](./docs/image/loadPlugin.png)
+   ![示意圖](./docs/images/loadPlugin.png)
 4. 選擇這個專案的資料夾（包含 `manifest.json` 那層）
-   ![示意圖](./docs/image/chooseFolder.png)
+   ![示意圖](./docs/images/chooseFolder.png)
 5. 載入成功後，到 `https://x.com` 重新整理頁面（F5）
 
 ---
