@@ -1,0 +1,46 @@
+.image-to-gif-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: rgb(29, 155, 240);
+  transition: background-color 0.2s ease;
+  margin: 0 8px;
+  flex-shrink: 0;
+}
+
+.image-to-gif-btn:hover {
+  background-color: rgba(29, 155, 240, 0.1);
+}
+
+.image-to-gif-btn:active {
+  background-color: rgba(29, 155, 240, 0.2);
+}
+
+.image-to-gif-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+.image-to-gif-notification {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #1d9bf0;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 9999px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 999999;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-to-gif-notification.show {
+  opacity: 1;
+}
